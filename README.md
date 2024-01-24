@@ -10,3 +10,6 @@ SECRETORPRIVATEKEY= 234470537Jwt$ (o de su freferencia colcoar una personalizada
 4. npm run dev
 
 tener en cuenta que esto estara desplegado en un contenedor de docker en un servidor en la cual esta configurado y puede acceder bajo el siguiente link: http://brickcode.com.co:5000/
+
+El sistema se basa bajo la siquiente arquitectura ![Alt text](image.png)
+Con la variacion que la base de datos esta realizada en MongoDB, el backend con nodejs y el frontend con angular
